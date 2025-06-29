@@ -1,7 +1,5 @@
 # 📝 Clearable Textbox WPF Control
 
-//https://www.youtube.com/watch?v=V86kaIBBcRk&t=383s
-
 This WPF custom control provides an enhanced textbox with **placeholder text** and a **clear button** functionality.
 
 ## ✨ Features
